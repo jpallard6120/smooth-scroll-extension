@@ -1,6 +1,6 @@
 {
-    "name": "Smooth Scroll with Section Exclusion",
-    "description": "Automatically scroll the page and slow near certain sections, with the option to skip any sections you choose.",
+    "name": "Smooth Scroll with Section Exclusion and Hover Highlight",
+    "description": "Automatically scroll the page, slow near certain sections, and hover to highlight skip-sections in the DOM.",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
