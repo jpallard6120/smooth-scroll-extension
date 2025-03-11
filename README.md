@@ -6,7 +6,7 @@
 4. Open Chrome and copy `chrome://extensions` in your address bar
 5. Activate Developer Mode (Top right)
 6. Click on `Load Unpacked`
-7. Select the `smooth-scroll-extension-main` folder
+7. Select the `smooth-scroll-extension-main` folder that you created on step 3. 
 8. Click on "Select folder"
 
 The extension will now be installed on your browser. 
