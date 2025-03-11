@@ -1,0 +1,17 @@
+{
+    "name": "Smooth Scroll with Section Exclusion",
+    "description": "Automatically scroll the page and slow near certain sections, with the option to skip any sections you choose.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "host_permissions": [
+      "<all_urls>"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
