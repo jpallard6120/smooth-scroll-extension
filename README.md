@@ -1,3 +1,7 @@
+# What is this?
+
+The Smooth Scrolling Chrome Extension enables making screen captures of Shopify stores with a smooth scrolling effect, slowing down at each section to make a more dynamic and interesting media compared to a regular screen capture.
+
 # How to install
 
 1. Click the `Code` button above
